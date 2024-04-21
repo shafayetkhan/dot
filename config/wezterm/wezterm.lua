@@ -21,7 +21,8 @@ config.default_prog = { "/opt/homebrew/bin/fish", "-l" }
 config.window_decorations = "RESIZE"
 config.hide_tab_bar_if_only_one_tab = true
 config.font = wezterm.font("JetBrainsMono Nerd Font")
-config.window_background_opacity = 1.0
+--- config.window_background_opacity = 1.0
+config.window_background_opacity = 0.88
 config.macos_window_background_blur = 30
 
 config.keys = {
