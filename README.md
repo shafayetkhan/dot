@@ -21,6 +21,11 @@ ln -s ~/Code/dot/config/wezterm ~/.config/wezterm
 ln -s ~/Code/dot/config/fish ~/.config/fish
 ```
 
+### bat
+
+```
+ln -s ~/Code/dot/config/bat ~/.config/bat
+```
 ### Homebrew
 
 #### Leaving a machine
