@@ -26,6 +26,12 @@ ln -s ~/Code/dot/config/fish ~/.config/fish
 ```
 ln -s ~/Code/dot/config/bat ~/.config/bat
 ```
+### lazygit
+
+```
+ln -s ~/Code/dot/config/lazygit ~/.config/lazygit
+```
+
 ### Homebrew
 
 #### Leaving a machine
