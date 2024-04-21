@@ -15,5 +15,10 @@ ln -s ~/Code/dot/config/nvim ~/.config/nvim
 ln -s ~/Code/dot/config/wezterm ~/.config/wezterm
 ```
 
+### fish
+
+```
+ln -s ~/Code/dot/config/fish ~/.config/fish
+```
 
 
