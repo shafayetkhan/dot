@@ -4,6 +4,7 @@ eza
 fd
 fish
 git
+git-delta
 htop
 jesseduffield/lazygit/lazygit
 neovim
