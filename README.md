@@ -3,6 +3,11 @@ simple dot files
 
 ## Install
 
+### git
+```
+ln -s ~/Code/dot/.gitconfig ~/.gitconfig
+```
+
 ### nvim
 
 ```
