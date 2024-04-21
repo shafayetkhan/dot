@@ -1,0 +1,12 @@
+atuin
+bat
+eza
+fd
+fish
+git
+htop
+jesseduffield/lazygit/lazygit
+neovim
+ripgrep
+rye
+starship

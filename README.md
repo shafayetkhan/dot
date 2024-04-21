@@ -21,4 +21,10 @@ ln -s ~/Code/dot/config/wezterm ~/.config/wezterm
 ln -s ~/Code/dot/config/fish ~/.config/fish
 ```
 
+### Homebrew
 
+#### Leaving a machine
+brew leaves > leaves.txt
+
+#### New Machine
+xargs brew install < leaves.txt
